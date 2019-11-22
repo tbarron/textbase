@@ -1,0 +1,9 @@
+.coverage*
+.env
+.project
+DODO
+*.egg-info
+venv*
+__pycache__
+.#*
+\#*
